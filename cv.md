@@ -2,6 +2,8 @@
 
 ## Nikita Drako
 
-### Age: 20
+### Information
 
-### Study at Belarusian State University
+- Age: 20
+- Study at Belarusian State University
+- Programming and gaming lover
