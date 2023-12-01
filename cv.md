@@ -10,3 +10,20 @@
 - Study at Belarusian State University
 - Programming and gaming lover
 - Love developing video games
+
+### Contact Information
+
+- Telegram: @dragoh54
+- Discord: solar54
+
+### Skills
+
+- Languages:
+  - C#
+  - C++
+  - C# for Unity
+  - Java
+- Databases:
+  - PostgreSql
+  - Transact-SQL
+- A2 English
