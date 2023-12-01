@@ -2,7 +2,7 @@
 
 ## Nikita Drako
 
-![My old photo](image-1.png)
+![My old photo](image.png)
 
 ### Information
 
