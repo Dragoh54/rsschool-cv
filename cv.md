@@ -13,8 +13,8 @@
 
 ### Contact Information
 
-- Telegram: @dragoh54
-- Discord: solar54
+- Telegram: @dragoh5555
+- Discord: solar5555
 
 ### Skills
 
