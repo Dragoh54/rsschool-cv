@@ -26,4 +26,4 @@
 - Databases:
   - PostgreSql
   - Transact-SQL
-- A2 English
+- B2 English
